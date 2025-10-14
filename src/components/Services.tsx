@@ -11,7 +11,7 @@ const services = [
     description: 'Secure and stylish locks installation',
     price: 4000,
     icon: Scissors,
-    image: '/public/images/hair007.jpg',
+    image: '/images/hair007.jpg',
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const services = [
     description: 'Knotless braids for a natural, lightweight finish',
     price: 700,
     icon: Scissors,
-    image: '/public/images/hair004.jpg',
+    image: '/images/hair004.jpg',
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const services = [
     description: 'Classic braiding styles',
     price: 600,
     icon: Scissors,
-    image: '/public/images/hair005.jpg',
+    image: '/images/hair005.jpg',
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const services = [
     description: 'Traditional cornrows for a neat look',
     price: 400,
     icon: Scissors,
-    image: '/public/images/hair010.jpg',
+    image: '/images/hair010.jpg',
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const services = [
     description: 'Stylish half cornrows / Fulani braid styling',
     price: 650,
     icon: Scissors,
-    image: '/public/images/hair008.jpg',
+    image: '/images/hair008.jpg',
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const services = [
     description: 'Delicate sister locks maintenance and installation',
     price: 2500,
     icon: Scissors,
-    image: '/public/images/hair003.jpg',
+    image: '/images/hair003.jpg',
   },
   {
     id: 7,
@@ -59,7 +59,7 @@ const services = [
     description: 'Natural twist styling for a soft, elegant look',
     price: 700,
     icon: Scissors,
-    image: '/public/images/hair001.jpg',
+    image: '/images/hair001.jpg',
   },
   {
     id: 8,
@@ -67,7 +67,7 @@ const services = [
     description: 'Trendy passion twists for volume and texture',
     price: 700,
     icon: Scissors,
-    image: '/public/images/hair006.jpg',
+    image: '/images/hair006.jpg',
   },
   {
     id: 9,
@@ -75,7 +75,7 @@ const services = [
     description: 'Defined twist-out styling',
     price: 350,
     icon: Scissors,
-    image: '/public/images/hair011.jpg',
+    image: '/images/hair011.jpg',
   },
   {
     id: 10,
@@ -83,7 +83,7 @@ const services = [
     description: 'Small, neat micro twists',
     price: 1000,
     icon: Scissors,
-    image: '/public/images/hair012.jpg',
+    image: '/images/hair012.jpg',
   },
   {
     id: 11,
@@ -91,7 +91,7 @@ const services = [
     description: 'Safe and sterile ear piercing service',
     price: 250,
     icon: Scissors,
-    image: '/public/images/piercing001.jpg',
+    image: '/images/piercing001.jpg',
   },
   {
     id: 12,
@@ -99,7 +99,7 @@ const services = [
     description: 'Precision stitching service',
     price: 500,
     icon: Scissors,
-    image: '/public/images/hair009.jpg',
+    image: '/images/hair009.jpg',
   },
 ];
 
