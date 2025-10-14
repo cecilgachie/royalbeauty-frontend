@@ -149,7 +149,6 @@ const Services = () => {
                     <button
                       onClick={() => {
                         setBooking({ service: service.name, price: service.price });
-                        openSidebar();
                         navigate('/booking');
                       }}
                       className="bg-gradient-to-r from-pink-500 to-[#f5c542] text-white px-6 py-2 rounded-full hover:shadow-lg transform hover:-translate-y-0.5 transition-all font-medium"
