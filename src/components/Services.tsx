@@ -49,7 +49,7 @@ const services = [
     id: 6,
     name: 'Sister Locks',
     description: 'Delicate sister locks maintenance and installation',
-    price: 2000,
+    price: 5000,
     icon: Scissors,
     image: '/images/hair003.jpg',
   },
