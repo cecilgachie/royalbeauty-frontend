@@ -17,11 +17,11 @@ const services: Array<any> = [
       { id: '2-4', name: 'Half Cornrows / Fulani Braids', price: 650 },
     ],
   },
-  { id: 3, name: 'Sister Locks', price: 2500 },
+  { id: 3, name: 'Sister Locks', price: 5000 },
   { id: 4, name: 'Natural Twist', price: 700 },
   { id: 5, name: 'Passion Twist', price: 700 },
   { id: 6, name: 'Twist Out', price: 350 },
-  { id: 7, name: 'Micro Twist', price: 1000 },
+  { id: 7, name: 'Micro Twist', price: 1500 },
   { id: 8, name: 'Ear Piercing', price: 250 },
   { id: 9, name: 'Stitches', price: 500 },
 ];
